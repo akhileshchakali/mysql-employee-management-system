@@ -6,6 +6,7 @@ This project demonstrates a complete Employee Management System built using MySQ
 
 ## Project Structure
 
+```text
 mysql-employee-management-system/
 │
 ├── README.md
@@ -29,7 +30,7 @@ mysql-employee-management-system/
     ├── transaction_output.png
     └── window_function_output.png
 
-
+```
 ## Features
 
 - Database Design
